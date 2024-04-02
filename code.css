@@ -19,7 +19,7 @@ a{
 .logo{
     width: 250px;
     height: 122px;
-    background: url(安利.png);
+    background: url(anli.png);
     background-size: contain;
     float:left;
 }
@@ -61,7 +61,7 @@ a{
     box-sizing: border-box;
     float:right;
     border:0;
-    background:url(搜索按钮.png) no-repeat center center;
+    background:url(searchbutton.png) no-repeat center center;
 }
 
 
